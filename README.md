@@ -10,18 +10,6 @@
 
 ---
 
-### 🚀 What I'm Building
-
-| Project | Description | Stack |
-|---|---|---|
-| [AceMock](https://github.com/Sai7724/AceMock-Ai-powered-interviewer) | AI-powered interview practice platform — aptitude tests, coding challenges, HR rounds, Gemini AI feedback | React · TypeScript · Supabase · Tailwind |
-| [Email-Agent](https://github.com/Sai7724/AgentRed-Backend) | AI cold-email outreach agent — LangChain drafting, Gmail sending via MCP, multi-provider LLM support | FastAPI · LangChain · React · MongoDB/PostgreSQL |
-| [Agent-Scrapper](https://github.com/Sai7724/AgentScrape) | AI job scraper & ATS advisor — LangGraph multi-agent pipeline, ChromaDB vector memory, multi-LLM fallback | FastAPI · LangGraph · ChromaDB · Playwright · React |
-| [SiteSafe](https://github.com/Sai7724/SiteSafe-Highlights-defense-against-online-privacy-threats) | Website privacy auditor — tracker detection, TLS checks, NLP policy risk grading | Flask · spaCy · Transformers · PyTorch |
-| [People Counter](https://github.com/Sai7724/people-counter-app) | Real-time people counting & directional tracking app | Python · Streamlit · OpenCV · YOLOv8 |
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -59,7 +47,7 @@
 
 ### 🎓 Education
 
-🏛️ [B.Tech, CSE(Data Science/Ai) - 7.6/Dr. MGR University]
+🏛️ Dr. MGR University B.Tech, CSE(Data Science/Ai) - 7.6CGPA, 
 
 ---
 
@@ -69,4 +57,4 @@
 
 ---
 
-<p align="center">Currently open to full-stack, Ai Engineer, freelance roles, and project collaborations.</p>
+<p align="center">Currently open to full-stack, Ai Engineer & freelance roles, and project collaborations.</p>
