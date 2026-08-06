@@ -1,22 +1,72 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Full Stack Developer | Freelancer | 2026 CS Graduate</h3>
+<h1 align="center">Sai Laxma Reddy R</h1>
+<h3 align="center">Python & Full-Stack Developer · Hyderabad, Chennai, Bengaluru, India</h3>
+<p align="center">Building intelligent products with Python, FastAPI & React</p>
 
-- 🔭 I'm currently working on freelance development projects — building ML applications, websites, and backend systems
-- 🌱 Actively preparing for fresher/entry-level software roles
-- 💼 Portfolio: [sailaxmareddy-portfolio.onrender.com](https://sailaxmareddy-portfolio.onrender.com/)
-- 📫 Reach me at: [your email / LinkedIn]
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-laxma-reddy-ab7441352/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Sai7724"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:sailaxmareddy07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 What I'm Building
+
+| Project | Description | Stack |
+|---|---|---|
+| [AceMock](https://github.com/Sai7724/AceMock-Ai-powered-interviewer) | AI-powered interview practice platform — aptitude tests, coding challenges, HR rounds, Gemini AI feedback | React · TypeScript · Supabase · Tailwind |
+| [Email-Agent](https://github.com/Sai7724/AgentRed-Backend) | AI cold-email outreach agent — LangChain drafting, Gmail sending via MCP, multi-provider LLM support | FastAPI · LangChain · React · MongoDB/PostgreSQL |
+| [Agent-Scrapper](https://github.com/Sai7724/AgentScrape) | AI job scraper & ATS advisor — LangGraph multi-agent pipeline, ChromaDB vector memory, multi-LLM fallback | FastAPI · LangGraph · ChromaDB · Playwright · React |
+| [SiteSafe](https://github.com/Sai7724/SiteSafe-Highlights-defense-against-online-privacy-threats) | Website privacy auditor — tracker detection, TLS checks, NLP policy risk grading | Flask · spaCy · Transformers · PyTorch |
+| [People Counter](https://github.com/Sai7724/people-counter-app) | Real-time people counting & directional tracking app | Python · Streamlit · OpenCV · YOLOv8 |
+
+---
 
 ### 🛠️ Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5/CSS3](https://img.shields.io/badge/-HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frameworks & Backend**
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<!-- add/remove badges to match your actual stack -->
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases & APIs**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F00?style=flat-square)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
+
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🎓 Education
+
+🏛️ [B.Tech, CSE(Data Science/Ai) - 7.6/Dr. MGR University]
+
+---
 
 ### 📊 GitHub Stats
-![Metrics](https://github.com/[your-username]/[your-username]/raw/master/metrics.svg)
 
-### 📌 Featured Projects
-- **[Project Name]** — one-line description ([repo link])
-- **[Project Name]** — one-line description ([repo link])
-- **[Project Name]** — one-line description ([repo link])
+![Metrics](https://github.com/Sai7724/Sai7724/raw/master/metrics.svg)
+
+---
+
+<p align="center">Currently open to AI/ML internships, full-stack freelance work, and project collaborations.</p>
