@@ -53,7 +53,7 @@
 
 ### 📊 GitHub Stats
 
-![Metrics](https://github.com/Sai7724/Sai7724/raw/master/metrics.svg)
+[![Metrics](https://github.com/Sai7724/Sai7724/raw/main/metrics.svg)](https://github.com/Sai7724/Sai7724/raw/main/metrics.svg)
 
 ---
 
