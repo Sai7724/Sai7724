@@ -69,4 +69,4 @@
 
 ---
 
-<p align="center">Currently open to AI/ML internships, full-stack freelance work, and project collaborations.</p>
+<p align="center">Currently open to full-stack, Ai Engineer, freelance roles, and project collaborations.</p>
