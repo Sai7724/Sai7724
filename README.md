@@ -47,7 +47,7 @@
 
 ### 🎓 Education
 
-🏛️ Dr. MGR University B.Tech, CSE(Data Science/Ai) - 7.6CGPA, 
+🏛️ Dr. M.G.R University, B.Tech, CSE-(Data Science/Ai) - 7.6 CGPA, 
 
 ---
 
